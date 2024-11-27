@@ -88,6 +88,7 @@
 
 #es-rc #es-rc-content .es-ingredience__header {
   position: relative;
+  text-wrap: balance;
 }
 
 #es-rc #es-rc-content .es-ingredience__fancy-text {
